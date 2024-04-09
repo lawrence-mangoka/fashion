@@ -1,0 +1,10 @@
+.container-fluid-1 {
+    background-image: url("./app/assets/pexels-ogo-johnson-3685406.jpg");
+    height: 100vh;
+    overflow-x: hidden;
+}
+
+.d-block {
+    height: 400px;
+    width: 500px;
+}
